@@ -1,0 +1,15 @@
+.navbar {
+    width: 100%;
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: rosybrown;
+}
+
+.navElement {
+    color: brown;
+}
+.navbar-brand{
+    color: brown;
+    border-color: chocolate;
+    font-weight: bold;
+}
